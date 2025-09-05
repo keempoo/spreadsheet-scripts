@@ -1,0 +1,2 @@
+Create bat file that 
+1. sign in with credential set 1, 2. back up, 3. sign out, 4. sign in with credential set 2, 5. backup, 6. sign out
